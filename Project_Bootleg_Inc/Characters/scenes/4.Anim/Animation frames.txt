@@ -1,0 +1,6 @@
+Ronin Animation Frames
+
+10-20 - Idle
+20-25 - Light 1
+25-40 - Light 2
+40-50 - Light 3
